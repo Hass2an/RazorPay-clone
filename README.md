@@ -16,8 +16,6 @@ You can check out a live demo of the project here: # RazorPay Clone
 
 This project is a clone of the Razorpay website built using Tailwind CSS.
 
-![RazorPay Clone Screenshot](screenshot.png)
-
 ## Table of Contents
 
 - [Demo](#demo)
