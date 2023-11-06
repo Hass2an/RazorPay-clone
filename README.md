@@ -7,8 +7,6 @@ This project is a clone of the Razorpay website built using Tailwind CSS.
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
@@ -22,8 +20,7 @@ This project is a clone of the Razorpay website built using Tailwind CSS.
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Demo
 
@@ -33,7 +30,7 @@ You can check out a live demo of the project here: https://razorpay-clone-ecru.v
 
 - Responsive design using Tailwind CSS.
 - Payment processing flow similar to Razorpay.Just Style not functional
-- ...
+
 
 ## Installation
 
@@ -52,6 +49,6 @@ git@github.com:Hass2an/RazorPay-clone.git
 
 
 ## Usage
-You can use this project as a starting point for building your own payment processing applications. Customize the design and functionality to meet your specific requirements.
+You can use this project as a starting point for building your payment processing applications. Customize the design and functionality to meet your specific requirements.
 
    
